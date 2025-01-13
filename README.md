@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="250" height="250" src="Honaro_ Gif animation - Misha Semin.gif">
 
 <h3 align="left">I am a final-year undergraduate student with a
- strong passion for IOT 📶 , computer vision 🖼 , machine
- learning 📉, and full-stack development 💻. My academic
+ strong passion for IOT📶 , computer vision🖼 , machine
+ learning🧠, and full-stack development🌐. My academic
  journey has equipped me with a deep
  understanding of core computer science concepts,
  artificial intelligence,optimizings, and mathematics.
