@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<br/><br/><br/>
+
 
 - 📫 How to reach me **dushan.20@cse.mrt.ac.lk**
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dushan-fernando-aaaa02291/) 
 -->
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 # 💻 Tech Stack:
 
