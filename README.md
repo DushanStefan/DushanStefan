@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Dushan Fernando</h1>
 <h3 align="center">Undergraduate, University of Moratuwa </h3>
-<img align="right" alt="coding" width="400" src="Honaro_ Gif animation - Misha Semin.gif">
+<img align="right" alt="coding" width="250" height="250" src="Honaro_ Gif animation - Misha Semin.gif">
+
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashaklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nimashaklaa" /> </p>-->
 
@@ -66,10 +67,15 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-## Mobile and IoT Development
+## Mobile Development
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+## IoT Development
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## Databases
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -85,7 +91,7 @@ Here are some ideas to get you started:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## DevOps and Tools
+## Other Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
