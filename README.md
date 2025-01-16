@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  I am driven by curiosity and enjoy exploring how
  emerging technologies can be applied to solve real
 world problems creatively and efficiently.</h3>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashaklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nimashaklaa" /> </p>-->
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -40,16 +40,11 @@ world problems creatively and efficiently.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/dushan-fernando-aaaa02291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/dushan-fernando-aaaa02291" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/profile/200425K_CSE_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@200425k_cse_20" height="30" width="40" /></a> -->
-<!-- <a href="https://kaggle.com/https://www.kaggle.com/amandinimasha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amandinimasha/" height="30" width="40" /></a> -->
-<a href="https://medium.com/@dushan.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@dushan.20" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/https://leetcode.com/amandinimasha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amandinimasha/" height="30" width="40" /></a>
-</p> -->
 
-<!--
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dushan-fernando-aaaa02291/) 
--->
+<a href="https://medium.com/@dushan.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@dushan.20" height="30" width="40" /></a>
+
+
+
 
 
 
