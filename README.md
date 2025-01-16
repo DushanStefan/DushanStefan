@@ -39,9 +39,13 @@ world problems creatively and efficiently.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/dushan-fernando-aaaa02291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/dushan-fernando-aaaa02291" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/dushan-fernando-aaaa02291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amandi-nimasha-0077a5259" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/profile/200425K_CSE_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@200425k_cse_20" height="30" width="40" /></a> -->
+<!-- <a href="https://kaggle.com/https://www.kaggle.com/amandinimasha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amandinimasha/" height="30" width="40" /></a> -->
+<a href="https://medium.com/@dushan.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@amandinimasha99" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/https://leetcode.com/amandinimasha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amandinimasha/" height="30" width="40" /></a>
+</p> -->
 
-<a href="https://medium.com/@dushan.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@dushan.20" height="30" width="40" /></a>
 
 
 
